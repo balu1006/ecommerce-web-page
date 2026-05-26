@@ -28,10 +28,3 @@ This repository contains a lightweight, responsive front-end for an e-commerce w
 - Edit HTML in `index.html` and styles in `css/style.css`.
 - Replace or add images under the `images/` folder as needed.
 
-## Contributing
-
-Contributions are welcome — open a PR with bug fixes or improvements.
-
-## License
-
-This project has no license specified. Add a LICENSE file if you want to apply one.
